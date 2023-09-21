@@ -4,7 +4,7 @@
 
 ## Description
 
-This project creates analysis about people whom the company employed during the 1980s and 1990s. There are two sql file and a picture in EmployeeSQL folder. Data_Engineering.sql contains codes which creates table schemas. Data_Analysis lists queries for relvant analysis. The Data_modelling.JPG shows Entity Relationship Diagram for tables.
+This project creates an analysis of people whom the company employed during the 1980s and 1990s. There are two sql files and a picture in EmployeeSQL folder. Data_Engineering.sql contains codes that create table schemas. Data_Analysis lists queries for relevant analysis. The Data_modelling.JPG shows Entity Relationship Diagram for tables.
 
 
 
@@ -17,7 +17,7 @@ This project creates analysis about people whom the company employed during the 
 3. Import Data_Engineering.sql and run it.
 4. Import 6 csv files to relvant tables.
 5. Import Data_Analysis.sql and run it.
-6. Check the results showed in pdAdmin.
+6. Check the results shown in pdAdmin.
 ---
 
 ## Contributing
@@ -36,4 +36,4 @@ Please ensure that your code follows the SQL coding conventions and is well-docu
 ---
 
 ## Credits
-This project was created and is maintained by Chang Yu.
+This project was created and maintained by Chang Yu.
